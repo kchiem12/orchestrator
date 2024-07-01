@@ -2,7 +2,8 @@ package worker
 
 import (
 	"fmt"
-	"orchestrator/task"
+
+	"github.com/kchiem12/orchestrator/task"
 
 	"github.com/golang-collections/collections/queue"
 	"github.com/google/uuid"
